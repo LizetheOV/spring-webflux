@@ -1,11 +1,3 @@
-/*
- *    Banco Bisa
- *    http://bisa.com
- *
- *    (C) 2020, Grupo Financiero Bisa
- *
- */
-
 package com.rective.springwebflux.controllers;
 
 import com.rective.springwebflux.models.Book;
@@ -14,7 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;
-import org.springframework.web.reactive.function.BodyInserter;
 import org.springframework.web.reactive.function.BodyInserters;
 import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.RouterFunctions;

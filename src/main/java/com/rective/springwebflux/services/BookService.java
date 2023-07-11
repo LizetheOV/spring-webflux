@@ -1,11 +1,3 @@
-/*
- *    Banco Bisa
- *    http://bisa.com
- *
- *    (C) 2020, Grupo Financiero Bisa
- *
- */
-
 package com.rective.springwebflux.services;
 
 import com.rective.springwebflux.models.Book;
